@@ -26,3 +26,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # angular-video
+
+
+## To build and publish
+ng build --prod --base-href https://IshwaryaLakshmi.github.io/angular-video/
+ngh --dir dist/ng-video-game-db
+
+https://medium.com/coinmonks/how-to-deploy-an-angular-app-8db1af39f8c1
